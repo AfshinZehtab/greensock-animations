@@ -1,0 +1,222 @@
+/* line 5, ../../../../.rvm/gems/ruby-2.4.0/gems/compass-core-1.0.3/stylesheets/compass/reset/_utilities.scss */
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed,
+figure, figcaption, footer, header, hgroup,
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font: inherit;
+  font-size: 100%;
+  vertical-align: baseline;
+}
+
+/* line 22, ../../../../.rvm/gems/ruby-2.4.0/gems/compass-core-1.0.3/stylesheets/compass/reset/_utilities.scss */
+html {
+  line-height: 1;
+}
+
+/* line 24, ../../../../.rvm/gems/ruby-2.4.0/gems/compass-core-1.0.3/stylesheets/compass/reset/_utilities.scss */
+ol, ul {
+  list-style: none;
+}
+
+/* line 26, ../../../../.rvm/gems/ruby-2.4.0/gems/compass-core-1.0.3/stylesheets/compass/reset/_utilities.scss */
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+
+/* line 28, ../../../../.rvm/gems/ruby-2.4.0/gems/compass-core-1.0.3/stylesheets/compass/reset/_utilities.scss */
+caption, th, td {
+  text-align: left;
+  font-weight: normal;
+  vertical-align: middle;
+}
+
+/* line 30, ../../../../.rvm/gems/ruby-2.4.0/gems/compass-core-1.0.3/stylesheets/compass/reset/_utilities.scss */
+q, blockquote {
+  quotes: none;
+}
+/* line 103, ../../../../.rvm/gems/ruby-2.4.0/gems/compass-core-1.0.3/stylesheets/compass/reset/_utilities.scss */
+q:before, q:after, blockquote:before, blockquote:after {
+  content: "";
+  content: none;
+}
+
+/* line 32, ../../../../.rvm/gems/ruby-2.4.0/gems/compass-core-1.0.3/stylesheets/compass/reset/_utilities.scss */
+a img {
+  border: none;
+}
+
+/* line 116, ../../../../.rvm/gems/ruby-2.4.0/gems/compass-core-1.0.3/stylesheets/compass/reset/_utilities.scss */
+article, aside, details, figcaption, figure, footer, header, hgroup, main, menu, nav, section, summary {
+  display: block;
+}
+
+/* line 3, ../sass/main.scss */
+body {
+  display: flex;
+  display: flex;
+  justify-content: center;
+}
+
+/* line 10, ../sass/main.scss */
+.container {
+  position: absolute;
+  top: 200px;
+}
+/* line 19, ../sass/main.scss */
+.container #lean-development-botton #lean-development {
+  height: 500px;
+}
+/* line 28, ../sass/main.scss */
+.container #lean-development-botton #lean-development #lean-botton .st0 {
+  fill: #4782C3;
+  z-index: 1;
+}
+/* line 29, ../sass/main.scss */
+.container #lean-development-botton #lean-development #lean-botton .st1 {
+  display: none;
+  fill: #4782C3;
+}
+/* line 30, ../sass/main.scss */
+.container #lean-development-botton #lean-development #lean-botton .st2 {
+  display: none;
+}
+/* line 31, ../sass/main.scss */
+.container #lean-development-botton #lean-development #lean-botton .st3 {
+  display: inline;
+  fill: #4782C3;
+}
+/* line 32, ../sass/main.scss */
+.container #lean-development-botton #lean-development #lean-botton .st4 {
+  display: inline;
+  fill: #7FB2E0;
+}
+/* line 33, ../sass/main.scss */
+.container #lean-development-botton #lean-development #lean-botton .st5 {
+  display: inline;
+  fill: #E4F0FA;
+}
+/* line 34, ../sass/main.scss */
+.container #lean-development-botton #lean-development #lean-botton .st6 {
+  display: inline;
+  fill: none;
+  stroke: #4782C3;
+  stroke-width: 3;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+}
+/* line 35, ../sass/main.scss */
+.container #lean-development-botton #lean-development #lean-botton .st7 {
+  display: inline;
+  fill: #FFFFFF;
+  stroke: #4782C3;
+  stroke-width: 3;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+}
+/* line 36, ../sass/main.scss */
+.container #lean-development-botton #lean-development #lean-botton .st8 {
+  display: inline;
+  fill: none;
+  stroke: #4782C3;
+  stroke-width: 3;
+  stroke-miterlimit: 10;
+}
+/* line 46, ../sass/main.scss */
+.container #lean-top #line-botton,
+.container #lean-top #cup {
+  fill: none;
+  stroke: #4782C3;
+  stroke-width: 3;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+}
+/* line 55, ../sass/main.scss */
+.container #lean-top #tish-lamp-4 {
+  fill: none;
+  stroke: #4782C3;
+  stroke-width: 3;
+  stroke-miterlimit: 10;
+}
+/* line 62, ../sass/main.scss */
+.container #lean-top #tish-lamp-1,
+.container #lean-top #tish-lamp-2,
+.container #lean-top #tish-lamp-3 {
+  fill: #FFFFFF;
+  stroke: #4782C3;
+  stroke-width: 3;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+}
+/* line 72, ../sass/main.scss */
+.container #lean-top #tish-lamp-3:hover {
+  fill: #ffff1a;
+  stroke: rgba(255, 255, 0, 0.35);
+  transition: .2s all;
+}
+/* line 78, ../sass/main.scss */
+.container #lean-top #lean-top-el1,
+.container #lean-top #lean-top-el2,
+.container #lean-top #lean-top-el3,
+.container #lean-top #lean-top-el3,
+.container #lean-top #lean-top-el4,
+.container #lean-top #lean-top-el5,
+.container #lean-top #lean-top-el6,
+.container #lean-top #lean-top-el7,
+.container #lean-top #lean-top-el8,
+.container #lean-top #lean-top-el9,
+.container #lean-top #lean-top-el10,
+.container #lean-top #lean-top-el11,
+.container #lean-top #lean-top-el12,
+.container #lean-top #lean-top-el13,
+.container #lean-top #lean-top-el14,
+.container #lean-top #lean-top-el15,
+.container #lean-top #lean-top-el16,
+.container #lean-top #lean-top-el18 {
+  fill: none;
+  stroke: #4782C3;
+  stroke-width: 3;
+  stroke-miterlimit: 10;
+}
+/* line 102, ../sass/main.scss */
+.container #lean-top #lean-top-el17 {
+  fill: none;
+  stroke: #4782C3;
+  stroke-width: 3;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+}
+/* line 113, ../sass/main.scss */
+.container #lean-mid .st0 {
+  fill: #4782C3;
+}
+/* line 114, ../sass/main.scss */
+.container #lean-mid .st1 {
+  fill: #7FB2E0;
+}
+/* line 115, ../sass/main.scss */
+.container #lean-mid .st2 {
+  fill: #E4F0FA;
+}
+/* line 117, ../sass/main.scss */
+.container #lean-mid #lamp-botton-2,
+.container #lean-mid #lamp-botton-3,
+.container #lean-mid #lamp-botton-4 {
+  fill: #7FB2E0;
+}
+/* line 123, ../sass/main.scss */
+.container #lean-mid #lamp-botton-1 {
+  fill: #E4F0FA;
+}

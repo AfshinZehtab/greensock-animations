@@ -1,0 +1,22 @@
+@import "compass/reset";
+
+body {
+	display: flex;
+	display: flex;
+    justify-content: center;
+}
+
+
+.container {
+
+	position: absolute;
+	top: 200px;
+
+	svg {
+		height: 500px;
+	}
+
+	#gears-big {
+		position: absolute;
+	}
+}

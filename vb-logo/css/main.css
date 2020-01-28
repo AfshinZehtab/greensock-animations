@@ -1,0 +1,47 @@
+body {
+	background: url('../img/bg.svg');
+	display: flex;
+	display: flex;
+    justify-content: center;
+}
+
+svg {
+	width: 100%;
+	height: 400px;
+}
+
+#logo {
+
+}
+
+#text-1,
+#text-2,
+#text-3,
+#vbtext {
+	visibility: hidden;
+}
+/*
+.content {
+    position: absolute;
+    top: 400px;
+    padding: 5%;
+}
+
+#headline {
+    font-family: "Exo 2", Helvetica, Arial, sans-serif;
+    font-weight: 200;
+    font-style: normal;
+    font-size: 3rem;
+    color: #fff;
+}*/
+
+#Layer_4 {
+	position: absolute;
+	top: 1200px;
+	width: 900px;
+}
+
+
+#Layer_4 #logo-end {
+	visibility: hidden;
+}

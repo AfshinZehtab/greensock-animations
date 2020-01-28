@@ -1,0 +1,169 @@
+/* line 5, ../../../../.rvm/gems/ruby-2.4.0/gems/compass-core-1.0.3/stylesheets/compass/reset/_utilities.scss */
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed,
+figure, figcaption, footer, header, hgroup,
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font: inherit;
+  font-size: 100%;
+  vertical-align: baseline;
+}
+
+/* line 22, ../../../../.rvm/gems/ruby-2.4.0/gems/compass-core-1.0.3/stylesheets/compass/reset/_utilities.scss */
+html {
+  line-height: 1;
+}
+
+/* line 24, ../../../../.rvm/gems/ruby-2.4.0/gems/compass-core-1.0.3/stylesheets/compass/reset/_utilities.scss */
+ol, ul {
+  list-style: none;
+}
+
+/* line 26, ../../../../.rvm/gems/ruby-2.4.0/gems/compass-core-1.0.3/stylesheets/compass/reset/_utilities.scss */
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+
+/* line 28, ../../../../.rvm/gems/ruby-2.4.0/gems/compass-core-1.0.3/stylesheets/compass/reset/_utilities.scss */
+caption, th, td {
+  text-align: left;
+  font-weight: normal;
+  vertical-align: middle;
+}
+
+/* line 30, ../../../../.rvm/gems/ruby-2.4.0/gems/compass-core-1.0.3/stylesheets/compass/reset/_utilities.scss */
+q, blockquote {
+  quotes: none;
+}
+/* line 103, ../../../../.rvm/gems/ruby-2.4.0/gems/compass-core-1.0.3/stylesheets/compass/reset/_utilities.scss */
+q:before, q:after, blockquote:before, blockquote:after {
+  content: "";
+  content: none;
+}
+
+/* line 32, ../../../../.rvm/gems/ruby-2.4.0/gems/compass-core-1.0.3/stylesheets/compass/reset/_utilities.scss */
+a img {
+  border: none;
+}
+
+/* line 116, ../../../../.rvm/gems/ruby-2.4.0/gems/compass-core-1.0.3/stylesheets/compass/reset/_utilities.scss */
+article, aside, details, figcaption, figure, footer, header, hgroup, main, menu, nav, section, summary {
+  display: block;
+}
+
+/* line 3, ../sass/main.scss */
+body {
+  display: flex;
+  display: flex;
+  justify-content: center;
+}
+
+/* line 10, ../sass/main.scss */
+.container {
+  position: absolute;
+  top: 200px;
+}
+/* line 15, ../sass/main.scss */
+.container svg {
+  height: 500px;
+}
+/* line 20, ../sass/main.scss */
+.container #digital .st0 {
+  fill: none;
+  stroke: #4782C3;
+  stroke-width: 3;
+  stroke-miterlimit: 10;
+}
+/* line 21, ../sass/main.scss */
+.container #digital .st1 {
+  fill: none;
+  stroke: #4782C3;
+  stroke-width: 3;
+  stroke-miterlimit: 10;
+  stroke-dasharray: 2;
+}
+/* line 22, ../sass/main.scss */
+.container #digital .st2 {
+  fill: none;
+  stroke: #4782C3;
+  stroke-width: 3;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+}
+/* line 23, ../sass/main.scss */
+.container #digital .st3 {
+  fill: none;
+  stroke: #4782C3;
+  stroke-width: 3;
+  stroke-miterlimit: 10;
+  stroke-dasharray: 1.9612,1.9612;
+}
+/* line 24, ../sass/main.scss */
+.container #digital .st4 {
+  fill: #4782C3;
+}
+/* line 25, ../sass/main.scss */
+.container #digital .st5 {
+  fill: #FFFFFF;
+  stroke: #4782C3;
+  stroke-width: 3;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+}
+/* line 26, ../sass/main.scss */
+.container #digital .st6 {
+  fill: #E4F0FA;
+  stroke: #4782C3;
+  stroke-width: 3;
+  stroke-miterlimit: 10;
+}
+/* line 27, ../sass/main.scss */
+.container #digital .st7 {
+  fill: #FFFFFF;
+  stroke: #4782C3;
+  stroke-width: 3;
+  stroke-miterlimit: 10;
+}
+/* line 28, ../sass/main.scss */
+.container #digital .st8 {
+  fill: #38B9D1;
+  stroke: #4782C3;
+  stroke-width: 3;
+  stroke-miterlimit: 10;
+}
+/* line 29, ../sass/main.scss */
+.container #digital .st9 {
+  fill: #7FB2E0;
+}
+/* line 30, ../sass/main.scss */
+.container #digital .st10 {
+  fill: #FFFFFF;
+}
+/* line 31, ../sass/main.scss */
+.container #digital .st11 {
+  clip-path: url(#SVGID_2_);
+}
+/* line 32, ../sass/main.scss */
+.container #digital .st12 {
+  fill: #E4F0FA;
+}
+/* line 33, ../sass/main.scss */
+.container #digital .st13 {
+  fill: #E4F0FA;
+  stroke: #4782C3;
+  stroke-width: 3;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+}
